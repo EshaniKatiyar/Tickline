@@ -1,4 +1,4 @@
-# Gravia Terminal
+# TickLine
 
 A live BTC/USDT trading terminal built with React + TypeScript: streaming order book, canvas chart, and a simulated execution flow with positions and P&L.
 
